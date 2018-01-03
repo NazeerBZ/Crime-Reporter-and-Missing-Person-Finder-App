@@ -1,6 +1,5 @@
 
-/*Login*/
-.panel-login {
+/*.panel-login {
 	border-color: #ccc;
 	-webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
 	-moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
@@ -97,7 +96,6 @@
 	border-color: #1CA347;
 }
 
-/*Crime.js*/
 
 .nav-tabs { border-bottom: 2px solid #DDD; }
     .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover { border-width: 0; }
@@ -136,9 +134,6 @@ body{ background: #EDECEC}
 	font-weight: bold;
 }
 
-/*	--------------------------------------------------
-	:: Table Filter
-	-------------------------------------------------- */
 .panel {
 	border: 1px solid #ddd;
 	background-color: #fcfcfc;
@@ -227,7 +222,6 @@ body{ background: #EDECEC}
 }
 .table-filter .media-body {
     display: block;
-    /* Had to use this style to force the div to expand (wasn't necessary with my bootstrap version 3.3.6) */
 }
 .table-filter .media-meta {
 	font-size: 11px;
@@ -350,12 +344,6 @@ color: #04A3ED;
     user-select: none;
 }
 
-/*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
- * Copyright 2011-2016 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -539,7 +527,7 @@ td,
 th {
   padding: 0;
 }
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+
 @media print {
   *,
   *:before,
@@ -612,12 +600,6 @@ th {
     border: 1px solid #ddd !important;
   }
 }
-/*@font-face {
-  font-family: 'Glyphicons Halflings';
-
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
-}*/
 .glyphicon {
   position: relative;
   top: 1px;
@@ -7105,5 +7087,4 @@ button.close {
   .hidden-print {
     display: none !important;
   }
-}
-/*# sourceMappingURL=bootstrap.css.map */
+}*/
